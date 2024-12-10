@@ -30,7 +30,10 @@ This repository showcases my journey through Advent of Code 2024, solving 25 day
 | 4    | Ceres Search                         | ✅ Complete     | Python         |
 | 5    | Print Queue                         | ✅ Complete     | Python         |
 | 6    | Guard Gallivant                         | ✅ Complete     | Python         |
-| 7    | TBD                         | 🛠️ In Progress | Python         |
+| 7    | Bridge Repair                         | ✅ Complete     | Python         |
+| 8    | Resonant Collinearity                         | ✅ Complete     | Python         |
+| 9    | Disk Fragmenter                         | ✅ Complete     | Python         |
+| 10    | TBD                         | 🛠️ In Progress | Python         |
 | ...  |                             |                 |                |
 | 25   | TBD                         | 🚧 Planned      | Python         |
 
