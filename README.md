@@ -33,7 +33,11 @@ This repository showcases my journey through Advent of Code 2024, solving 25 day
 | 7    | Bridge Repair                         | ✅ Complete     | Python         |
 | 8    | Resonant Collinearity                         | ✅ Complete     | Python         |
 | 9    | Disk Fragmenter                         | ✅ Complete     | Python         |
-| 10    | TBD                         | 🛠️ In Progress | Python         |
+| 10    | Hoof It                         | ✅ Complete | Python         |
+| 11    | Plutonian Pebbles                         | ✅ Complete | Python         |
+| 12    | Garden Groups                         | ✅ Complete | Python         |
+| 13    | Claw Contraption                         | ✅ Complete | Python         |
+| 14    | TBD                         | 🛠️ In Progress | Python         |
 | ...  |                             |                 |                |
 | 25   | TBD                         | 🚧 Planned      | Python         |
 
