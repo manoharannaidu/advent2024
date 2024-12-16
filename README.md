@@ -37,7 +37,10 @@ This repository showcases my journey through Advent of Code 2024, solving 25 day
 | 11    | Plutonian Pebbles                         | ✅ Complete | Python         |
 | 12    | Garden Groups                         | ✅ Complete | Python         |
 | 13    | Claw Contraption                         | ✅ Complete | Python         |
-| 14    | TBD                         | 🛠️ In Progress | Python         |
+| 14    | Restroom Redoubt                         | ✅ Complete | Python         |
+| 15    | Warehouse Woes                         | ✅ Complete | Python         |
+| 16    | Reindeer Maze                         | ✅ Complete | Python         |
+| 17    | TBD                         | 🛠️ In Progress | Python         |
 | ...  |                             |                 |                |
 | 25   | TBD                         | 🚧 Planned      | Python         |
 
