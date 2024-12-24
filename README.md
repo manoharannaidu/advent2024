@@ -40,8 +40,14 @@ This repository showcases my journey through Advent of Code 2024, solving 25 day
 | 14    | Restroom Redoubt                         | ✅ Complete | Python         |
 | 15    | Warehouse Woes                         | ✅ Complete | Python         |
 | 16    | Reindeer Maze                         | ✅ Complete | Python         |
-| 17    | TBD                         | 🛠️ In Progress | Python         |
-| ...  |                             |                 |                |
+| 17    | Chronospatial Computer                         | ✅ Complete | Python         |
+| 18    | RAM Run                         | ✅ Complete | Python         |
+| 19    | Linen Layout                         | ✅ Complete | Python         |
+| 20    | Race Condition                         | ✅ Complete | Python         |
+| 21    | Keypad Conundrum                         | ✅ Complete | Python         |
+| 22    | Monkey Market                         | ✅ Complete | Python         |
+| 23    | LAN Party                         | ✅ Complete | Python         |
+| 24    | Crossed Wires                         | ✅ Complete | Python         |
 | 25   | TBD                         | 🚧 Planned      | Python         |
 
 *Check back daily for updates!*
