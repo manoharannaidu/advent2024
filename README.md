@@ -18,7 +18,13 @@ Advent of Code is an annual programming event with daily challenges running from
 ## 📜 About
 
 This repository showcases my journey through Advent of Code 2024, solving 25 days of coding challenges. Each day includes:
-- A **solution** for the day's puzzle seperated into 2 python file labeled day{dayNum}part1.py and day{dayNum}part2.py.
+- A **solution** for the day's puzzle separated into two Python files labeled `day{dayNum}part1.py` and `day{dayNum}part2.py`.
+
+### Completed Calendar 🎉
+
+![Completed Advent of Code Calendar](complete.png)
+
+---
 
 ## 🌟 Solutions
 
@@ -48,7 +54,7 @@ This repository showcases my journey through Advent of Code 2024, solving 25 day
 | 22    | Monkey Market                         | ✅ Complete | Python         |
 | 23    | LAN Party                         | ✅ Complete | Python         |
 | 24    | Crossed Wires                         | ✅ Complete | Python         |
-| 25   | TBD                         | 🚧 Planned      | Python         |
+| 25    | Code Chronicle                         | ✅ Complete      | Python         |
 
 *Check back daily for updates!*
 
@@ -59,6 +65,9 @@ This repository showcases my journey through Advent of Code 2024, solving 25 day
 - **Language**: Python 3.10+
 - **Libraries**:  
   - `numpy`, `pandas` for data manipulation.
+  - `networkx` for graphs.
+
+---
 
 ## 🚀 How to Run
 
@@ -74,6 +83,7 @@ This repository showcases my journey through Advent of Code 2024, solving 25 day
    python day{dayNum}part1.py
    python day{dayNum}part2.py
    ```
+
 ---
 
 ## 🤝 Acknowledgments
